@@ -1,0 +1,9 @@
+
+R
+java:S1854"7Remove this useless assignment to local variable "odt".(ÀÖ²¡üÿÿÿÿ
+C
+java:S1481"(Remove this unused "odt" local variable.(ÀÖ²¡üÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(òªŽX
+V
+java:S1128"9Remove this unused import 'java.time.format.FormatStyle'.(óóÿ½8öŸô€þ/
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(²«çÑ
